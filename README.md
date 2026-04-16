@@ -33,3 +33,6 @@ Built and deployed using Google Cloud CLI:
 - Dedicated service account with minimal permissions (datastore.user)
 - Restrictive Firestore security rules
 - Cloud Monitoring uptime check configured
+
+## Architecture
+![Architecture Diagram](architecture.png)
